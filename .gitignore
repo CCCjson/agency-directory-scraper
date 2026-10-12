@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+agencies.json
+agencies.xlsx
